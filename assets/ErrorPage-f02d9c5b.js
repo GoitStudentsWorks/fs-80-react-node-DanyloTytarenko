@@ -1,4 +1,4 @@
-import{s as i,j as e}from"./index-2c5cedcc.js";import{H as n,F as o}from"./Header-259934eb.js";import"./index.esm-5a7ecbcb.js";const t="/fs-80-react-node-DanyloTytarenko/assets/img-blue-iced-tea-error-desktop-925521c7.png",r="/fs-80-react-node-DanyloTytarenko/assets/img-blue-iced-tea-error-desktop@2x-c6fd9aaf.png",d="/fs-80-react-node-DanyloTytarenko/assets/img-blue-iced-tea-error-mobile-30a17875.png",p="/fs-80-react-node-DanyloTytarenko/assets/img-blue-iced-tea-error-mobile@2x-bb05d097.png",s=i.div`
+import{s as i,j as e}from"./index-b0a761bf.js";import{H as n,F as o}from"./Header-90b23689.js";import"./index.esm-97fc098d.js";const t="/fs-80-react-node-DanyloTytarenko/assets/img-blue-iced-tea-error-desktop-925521c7.png",r="/fs-80-react-node-DanyloTytarenko/assets/img-blue-iced-tea-error-desktop@2x-c6fd9aaf.png",d="/fs-80-react-node-DanyloTytarenko/assets/img-blue-iced-tea-error-mobile-30a17875.png",p="/fs-80-react-node-DanyloTytarenko/assets/img-blue-iced-tea-error-mobile@2x-bb05d097.png",s=i.div`
   margin: 0 auto;
   padding-right: 20px;
   padding-left: 20px;

@@ -1,4 +1,4 @@
-import{s as e,c as i}from"./index-2c5cedcc.js";const a="/fs-80-react-node-DanyloTytarenko/assets/cocktail-desk@1x-12951112.jpg",t="/fs-80-react-node-DanyloTytarenko/assets/cocktail-desk@2x-03075d5b.jpg",n="/fs-80-react-node-DanyloTytarenko/assets/cocktail-tab@1x-f0e4543b.jpg",r="/fs-80-react-node-DanyloTytarenko/assets/cocktail-tab@2x-3b015c9b.jpg",d="/fs-80-react-node-DanyloTytarenko/assets/cocktail-mob@1x-ed4821dd.jpg",o="/fs-80-react-node-DanyloTytarenko/assets/cocktail-mob@2x-ab5031e5.jpg",p=e.div`
+import{s as e,c as i}from"./index-b0a761bf.js";const a="/fs-80-react-node-DanyloTytarenko/assets/cocktail-desk@1x-12951112.jpg",t="/fs-80-react-node-DanyloTytarenko/assets/cocktail-desk@2x-03075d5b.jpg",n="/fs-80-react-node-DanyloTytarenko/assets/cocktail-tab@1x-f0e4543b.jpg",r="/fs-80-react-node-DanyloTytarenko/assets/cocktail-tab@2x-3b015c9b.jpg",d="/fs-80-react-node-DanyloTytarenko/assets/cocktail-mob@1x-ed4821dd.jpg",o="/fs-80-react-node-DanyloTytarenko/assets/cocktail-mob@2x-ab5031e5.jpg",p=e.div`
   height: 100vh;
   display: flex;
   position: relative;
